@@ -27,7 +27,7 @@ Organizei o inventário em três blocos: **habilidades técnicas**, **habilidade
 - Organização e gestão de **repositórios Git/GitHub** (versionamento, documentação, README).
 - Capacidade de desenhar **arquiteturas de dados (Data Lakehouse)** com foco em integração, qualidade e escalabilidade.
 - Vivência em **governança de dados**, dicionários de dados, domínios e taxonomias para ambientes públicos ou corporativos.
-- Familiaridade com **segurança da informação e conformidade LGPD**.
+- Familiaridade com **segurança da informação e conformidade LGPD**. atualmente atuando como DPO na prefeitura de Hortolânida.
 - Produção de **documentação técnica em Markdown** (relatórios, especificações, manuais).
 - Uso de ferramentas de IA (ChatGPT, Copilot) para acelerar **prototipação, análises e documentação técnica**.
 
