@@ -3,7 +3,7 @@ Uso de roteiro a fim de monetarizar habilidades pessoais
 # 🧭 Mapa de Habilidades – Bootcamp CAIXA & DIO
 
 Este repositório contém o meu **Mapa de Habilidades**, desenvolvido como parte do Bootcamp CAIXA & DIO.  
-O objetivo é identificar competências atuais, cruzá-las com as necessidades do mercado e desenhar **caminhos concretos de monetização**, apoiando minha transição e posicionamento como **Analista e Arquiteto de Dados para Gestão Pública**.
+O objetivo é identificar competências atuais, cruzá-las com as necessidades do mercado e desenhar **caminhos concretos de monetização**, apoiando minha transição e posicionamento como **Analista e Arquiteto de Dados para Gestão Estratégica Pública ou Privada**.
 
 ---
 
